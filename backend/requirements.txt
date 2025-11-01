@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+web3
+supabase
+sqlalchemy
+psycopg2-binary
+python-dotenv
+xgboost
